@@ -57,7 +57,6 @@ A machine learning-based web application designed to help farmers identify plant
 
 **Technologies:** Python, Flask, React, TypeScript, TensorFlow, OpenCV
 
-🔗 Repository: [Add your project repository link here]
 
 ### 🍎 Food Calorie Estimator from an Image
 
@@ -70,8 +69,6 @@ A project that explores image recognition to identify food items and estimate th
 - Help users understand the nutritional value of food.
 
 **Technologies:** Python, Machine Learning, Image Processing, TensorFlow/Keras
-
-🔗 Repository: [Add your project repository link here]
 
 ---
 
