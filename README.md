@@ -104,7 +104,7 @@ A project that explores image recognition to identify food items and estimate th
 
 - 💼 GitHub: [Suneethakammara](https://github.com/Suneethakammara)
 - 🔗 LinkedIn: [Add your LinkedIn profile URL here]
-- 📧 Email: [Add your professional email address here]
+- 📧 Email: [suneetha2709@gmail.com]
 
 ---
 
